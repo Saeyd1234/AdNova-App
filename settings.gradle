@@ -1,0 +1,2 @@
+rootProject.name = "AdNova"
+include ':app'
